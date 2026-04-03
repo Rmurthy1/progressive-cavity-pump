@@ -1,0 +1,20 @@
+# OpenSCAD generated files
+*.stl
+*.off
+*.amf
+*.3mf
+*.dxf
+*.csg
+
+# Slicer files
+*.gcode
+*.bgcode
+*.ufp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*~
